@@ -1,0 +1,11 @@
+{
+  "id": "8cc4c3e7-b3fc-41ba-8b02-b7b582a3821e",
+  "assetType": "portable-experience",
+  "name": "Portable Experience Example",
+  "description": "My new Portable Experience",
+  "category": "eyewear",
+  "rarity": "mythic",
+  "thumbnail": "glasses.png",
+  "model": "glasses.glb",
+  "bodyShape": "both"
+}
